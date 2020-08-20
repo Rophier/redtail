@@ -8,9 +8,9 @@ The project's deep neural networks (DNNs) can be trained from scratch using publ
 
 The project also contains [Stereo DNN](../master/stereoDNN/) models and runtime which allow to estimate depth from stereo camera on NVIDIA platforms.
 
-**IROS 2018**: we will present our work at [IROS 2018](https://www.iros2018.org/) conference as a part of [Vision-based Drones: What's Next?](https://www.seas.upenn.edu/~loiannog/workshopIROS2018uav/) workshop. Feel free to stop by and chat.
+**IROS 2018**: we presented our work at [IROS 2018](https://www.iros2018.org/) conference as a part of [Vision-based Drones: What's Next?](https://www.seas.upenn.edu/~loiannog/workshopIROS2018uav/) workshop.
 
-**CVPR 2018**: we will present our work at [CVPR 2018](http://cvpr2018.thecvf.com/) conference as a part of [Workshop on Autonomous Driving](http://www.wad.ai/index.html). Feel free to stop by and chat.
+**CVPR 2018**: we presented our work at [CVPR 2018](http://cvpr2018.thecvf.com/) conference as a part of [Workshop on Autonomous Driving](http://www.wad.ai/index.html).
 
 ## References and Demos
 * [Stereo DNN, CVPR18 paper](https://arxiv.org/abs/1803.09719), [Stereo DNN video demo](https://youtu.be/0FPQdVOYoAU)
@@ -22,6 +22,14 @@ The project also contains [Stereo DNN](../master/stereoDNN/) models and runtime 
 * [Demo video showing TrailNet generalization to ground vehicles and other environments](https://youtu.be/ZKF5N8xUxfw)
 
 # News
+* **2020-02-03**: Alternative implementations.
+    **redtail** is no longer being developed, but fortunately our community stepped in and continued developing the project.
+    We thank our users for the interest in **redtail**, questions and feedback!
+
+    Some alternative implementations are listed below.
+  
+  * @mtbsteve: https://github.com/mtbsteve/redtail
+
 * **2018-10-10**: Stereo DNN ROS node and fixes.
   * Added Stereo DNN ROS node and visualizer node.
   * Fixed issue with nvidia-docker v2.
